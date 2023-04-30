@@ -8,5 +8,8 @@ public class Sales {
     // ...
     // ...
 
+    // More sales added
+    // And even more
+
 
 }
